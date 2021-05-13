@@ -2,6 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import './fonts/ZenDots-Regular.ttf';
+import './fonts/RobotoMono-VariableFont_wght.ttf'
+
 // import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

@@ -2,9 +2,21 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    sans-serif,'ZenDots-Regular','RobotoMono-VariableFont_wght';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "ZenDots-Regular";
+  src: local("ZenDots-Regular"),
+    url("./fonts/ZenDots-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "RobotoMono-VariableFont_wght";
+  src: local("RobotoMono-VariableFont_wght"),
+    url("./fonts/RobotoMono-VariableFont_wght.ttf") format("truetype");
+  font-weight: normal;
 }
 
 code {
