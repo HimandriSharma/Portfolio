@@ -12,8 +12,8 @@ function Home() {
         <img src={img}
          alt=""
          style={{
-          width: "20%",
-          height: "20%",
+          width: "calc(45vh + 2vmin)",
+          height: "calc(45vh + 2vmin)",
           borderRadius: "50%",
         }}/>
         <div className="Text-size">

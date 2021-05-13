@@ -1,27 +1,29 @@
 .head{
-    font-size: calc(30px + 2vmin);
+    font-size: calc(5vh + 2vmin);
     display: flex;
     justify-content: center;
-    margin: 5%;
+    margin: 1vw;
 }
 .text{
-    font-size: 30px;
+    font-size: calc(1.2vw + 2vmin);
     text-align: left;
     justify-content: left;
     margin: 10px;
     margin: 5%;
 }
 .Home {
-    background-color: #282c34;
+    background-color: #051420;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: calc(10px + 2vmin);
+    font-size: calc(1.2vw + 2vmin);
     color: white;
   }
 .Text-tabs{
+    display: flex;
+    justify-content: center;
     color:"white";
     margin:20;
     font-size:30;

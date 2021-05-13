@@ -1,8 +1,8 @@
 html, 
 body {
   height: 100vh;
-  background:linear-gradient(rgb(28, 28, 41),rgba(21, 21, 22, 0.89));
-  background-color:rgba(11, 11, 12, 0.89);
+  /* background:linear-gradient(rgb(28, 28, 41),rgba(21, 21, 22, 0.89)); */
+  background-color:#051420;
   font-family: RobotoMono-VariableFont_wght;
   color: white;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #071E31; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
