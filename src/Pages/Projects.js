@@ -4,11 +4,11 @@ function Projects() {
     return (
         <div>
             <div className="Text-tabs">
-                <a style={{color:"white",margin:20}} href="/">  Home  </a>
-                <a style={{color:"white",margin:20}} href="education">  Education  </a>
-                <a style={{color:"white",margin:20}} href="skills">  Skills  </a>
-                <a style={{color:"white",margin:20}} href="projects">  Projects  </a>
-                <a style={{color:"white",margin:20}} href="experience">  Experience  </a>
+                <a style={{color:"white",margin:20,fontSize:30,fontFamily:'RobotoMono-VariableFont_wght'}} href="/">  Home  </a>
+                <a style={{color:"white",margin:20,fontSize:30,fontFamily:'RobotoMono-VariableFont_wght'}} href="education">  Education  </a>
+                <a style={{color:"white",margin:20,fontSize:30,fontFamily:'RobotoMono-VariableFont_wght'}} href="skills">  Skills  </a>
+                <a style={{color:"gray",margin:20,fontSize:30,fontFamily:'RobotoMono-VariableFont_wght'}} href="projects">  Projects  </a>
+                <a style={{color:"white",margin:20,fontSize:30,fontFamily:'RobotoMono-VariableFont_wght'}} href="experience">  Experience  </a>
             </div>
             <div className="head">Projects</div>
             <div className="text">

@@ -1,14 +1,17 @@
 import React from 'react'
 import '../App.css';
+import './pages.css';
 import img from '../Assets/myImage.jpeg';
 
 import Typical from 'react-typical';
 
 function Home() {
     return (
-      <div className="App">
+      <div className="Home">
         
-        <img src={img} style={{
+        <img src={img}
+         alt=""
+         style={{
           width: "20%",
           height: "20%",
           borderRadius: "50%",
