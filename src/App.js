@@ -1,12 +1,15 @@
 
 import './App.css';
-
+import Home from './Pages/Home';
+import Skills from './Pages/Skills';
+import Education from './Pages/Education'
+import Experience from './Pages/Experience'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        Hello world!
-      </header>
+      <div className="App-header">
+        
+      </div>
     </div>
   );
 }
