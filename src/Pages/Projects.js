@@ -13,25 +13,25 @@ function Projects() {
             <div className="head">Projects</div>
             <div className="text">
                 <u>NoQueue</u>
-                <br/>A mobile application built using flutter and Django.
+                <br/>-&gt;A mobile application built using flutter and Django.
 
-                <br/>Creates appointments for students to avoid standing in long queues.
-                <br/>Helps to maintain social distancing during COVID time while maximizing the efficiency.
+                <br/>-&gt;Creates appointments for students to avoid standing in long queues.
+                <br/>-&gt;Helps to maintain social distancing during COVID time while maximizing the efficiency.
 
                 <br/><br/><u>Domain Specific Learner and Facilitator Assist Software</u>
-                <br/>Built software to summarize corpus of data to indexed data and generating ppts, enable contextual searching, and n level summarization.
+                <br/>-&gt;Built software to summarize corpus of data to indexed data and generating ppts, enable contextual searching, and n level summarization.
 
-                <br/>Uses python to generate ppts and NLTK to summarize content logically.
-                <br/>Helps teachers to devote minimum time on formatting and arranging data.
+                <br/>-&gt;Uses python to generate ppts and NLTK to summarize content logically.
+                <br/>-&gt;Helps teachers to devote minimum time on formatting and arranging data.
                 <br/><br/><u>Spider Bots</u>
-                <br/>It is a nature-inspired robot that is capable of walking on most terrains.
+                <br/>-&gt;It is a nature-inspired robot that is capable of walking on most terrains.
 
-                <br/>A quadruped robot built with spider structure, using the networking via esp8266 and sync via Arduino.
+                <br/>-&gt;A quadruped robot built with spider structure, using the networking via esp8266 and sync via Arduino.
 
                 <br/><br/><u>Phone Detector</u>
-                <br/>The electronic circuit on the printed circuit board detects the frequency within a range and alert the organization accordingly.
+                <br/>-&gt;The electronic circuit on the printed circuit board detects the frequency within a range and alert the organization accordingly.
 
-                <br/>Made for Schools and Colleges to detect if anyone is using a phone or not. If the phone is used in the class/lecture an alarm will go off to alert authorities.
+                <br/>-&gt;Made for Schools and Colleges to detect if anyone is using a phone or not. If the phone is used in the class/lecture an alarm will go off to alert authorities.
             </div>
         </div>
     )

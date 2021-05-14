@@ -20,12 +20,13 @@ function Home() {
         <p>Hi 👋, I am Himandri Sharma</p>
         </div>
       <p style={{display:'flex',justifyContent:'center'}}>
-        I'm a -
+        I'm a 🔹
           <Typical 
-              steps={['Tech-enthusiast', 3000, 'Leader', 3000,'Developer', 3000]}
+              steps={['Tech-enthusiast ', 3000, 'Leader ✏️', 3000,'Developer 👩🏽‍💻', 3000]}
               loop={Infinity}
               wrapper="b"
             />
+        
       </p>
         <div className="Text-tabs">
           <a style={{color:"white",margin:20}} href="education">  Education  </a>
